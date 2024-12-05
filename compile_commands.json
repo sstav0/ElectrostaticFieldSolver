@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-O3",
+      "-Wall",
+      "-g",
+      "-I./AGMG_4.2.5-aca/SRC",
+      "-c",
+      "main.c"
+    ],
+    "directory": "/home/stav0/Desktop/POLYTECH/MATH-H-301/project/code.projet.v0/CodePub_v4",
+    "file": "/home/stav0/Desktop/POLYTECH/MATH-H-301/project/code.projet.v0/CodePub_v4/main.c"
+  }
+]
